@@ -1,0 +1,7 @@
+[INFO] Este es un mensaje de Info
+[WARNING] Este es un mensaje de Advertencia
+[ERROR] Este es un mensaje de Error
+[CRITICAL] Este es un mensaje Crítico
+[DEBUG] Este es un mensaje de Depuración
+[SECURITY] Access Granted | Usuario: admin_user
+[SECURITY] Access Denied | Usuario: intruso01
